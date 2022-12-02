@@ -1,0 +1,8 @@
+com\asuni\myapp\service\EmployeeService.class
+com\asuni\myapp\entity\EmployeeEntity.class
+com\asuni\myapp\controller\RestEmpCtr.class
+com\asuni\myapp\RunMe.class
+com\asuni\myapp\controller\EmployeeController.class
+com\asuni\myapp\repository\EmployeeRepository.class
+com\asuni\myapp\POJO\Employee.class
+com\asuni\myapp\HostBooks\App.class
